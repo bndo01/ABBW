@@ -1,6 +1,3 @@
----
-
-```markdown
 # SoccerNet - Action Spotting
 
 ## Notice
@@ -10,7 +7,7 @@ This repository provides documentation and an overview of the SoccerNet Action S
 To access the complete project, please visit the following link:
 
 **Google Drive Access:**  
-[Download Full Project Files] [https://your-google-drive-link-here](https://drive.google.com/file/d/1S-tYcSvdcfSM79XOodPtoaZrg0iUYVMZ/view?usp=sharing]
+[Download Full Project Files](https://drive.google.com/file/d/1S-tYcSvdcfSM79XOodPtoaZrg0iUYVMZ/view?usp=sharing)
 
 ---
 
@@ -102,6 +99,3 @@ If you use this project or the SoccerNet dataset in your research or development
 
 For additional details, see the full paper:  
 [SoccerNet-v2 Paper (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021W/CVSports/papers/Deliege_SoccerNet-v2_A_Dataset_and_Benchmarks_for_Holistic_Understanding_of_Broadcast_CVPRW_2021_paper.pdf)
-
----
-```
